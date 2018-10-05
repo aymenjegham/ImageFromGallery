@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageFromGallery</string>
+    <string name="import_image">import image</string>
+</resources>
